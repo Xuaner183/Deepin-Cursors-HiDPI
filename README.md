@@ -4,4 +4,4 @@
 
 * 适配高分屏，最高128px
 
-![info](.\.cover\cover_800x400.webp)
+![info](./.cover/cover_800x400.webp)
