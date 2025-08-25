@@ -4,4 +4,10 @@
 
 * 适配高分屏，最高128px
 
+## 如何使用？
+
+1. 去 [releases](https://github.com/Xuaner183/Deepin-Cursors-HiDPI/releases/latest "点击下载") 下载
+2. 解压
+3. 右键 `.inf` 文件选择 `安装`
+
 ![info](./.cover/cover_800x400.webp)
