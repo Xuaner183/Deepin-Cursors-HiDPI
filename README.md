@@ -10,4 +10,11 @@
 2. 解压
 3. 右键 `.inf` 文件选择 `安装`
 
+## 仓库地址
+
+* [GitHub](https://github.com/Xuaner183/Deepin-Cursors-HiDPI "主仓库")
+* [GitCode](https://gitcode.com/Xuan_er123/Deepin-Cursors-HiDPI "镜像仓库")
+
+## 预览图
+
 ![info](./.cover/cover_800x400.webp)
